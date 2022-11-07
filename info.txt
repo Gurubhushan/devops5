@@ -2,3 +2,5 @@ devops
 java cloud 
 guru
 gut is fast
+git is good 
+im very good person
