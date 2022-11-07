@@ -2,5 +2,10 @@ devops
 java cloud 
 guru
 gut is fast
+<<<<<<< HEAD
 git is good 
 im very good person
+=======
+git is goood
+>>>>>>> 2d3d08fd0633971308ed8e3649ba38f575ec9efe
+wq
